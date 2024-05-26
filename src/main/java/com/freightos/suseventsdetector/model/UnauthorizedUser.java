@@ -1,6 +1,6 @@
 package com.freightos.suseventsdetector.model;
 
-import jdk.nashorn.internal.objects.annotations.Constructor;
+//import jdk.nashorn.internal.objects.annotations.Constructor;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
