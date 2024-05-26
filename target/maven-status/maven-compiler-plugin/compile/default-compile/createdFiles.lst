@@ -1,0 +1,9 @@
+com/freightos/suseventsdetector/service/EventsService.class
+com/freightos/suseventsdetector/model/UnauthorizedUser.class
+com/freightos/suseventsdetector/EventRepository.class
+com/freightos/suseventsdetector/controller/EventController.class
+com/freightos/suseventsdetector/SuspiciousEventsDetectorApp.class
+com/freightos/suseventsdetector/controller/HealthCheckController.class
+com/freightos/suseventsdetector/service/SuspiciousEventsService.class
+com/freightos/suseventsdetector/model/EventResponse.class
+com/freightos/suseventsdetector/service/HealthCheckService.class
